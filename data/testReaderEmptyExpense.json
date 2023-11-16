@@ -1,0 +1,8 @@
+{
+    "listOfIncomes": [],
+    "listOfExpenses": [],
+    "account": {
+        "name": "Tommy Hu",
+        "budget": 100
+    }
+}

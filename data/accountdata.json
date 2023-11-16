@@ -1,0 +1,40 @@
+{
+    "listOfIncomes": [
+        {
+            "dateInString": "29/03/2023",
+            "name": "Bonus",
+            "moneyAmount": 120
+        },
+        {
+            "dateInString": "05/04/2023",
+            "name": "Pocket money",
+            "moneyAmount": 80
+        },
+        {
+            "dateInString": "09/04/2023",
+            "name": "P3",
+            "moneyAmount": 200
+        }
+    ],
+    "listOfExpenses": [
+        {
+            "dateInString": "15/03/2023",
+            "name": "Lego",
+            "moneyAmount": 90
+        },
+        {
+            "dateInString": "30/03/2023",
+            "name": "TestExpense1",
+            "moneyAmount": 75
+        },
+        {
+            "dateInString": "05/04/2023",
+            "name": "Tuition",
+            "moneyAmount": 900
+        }
+    ],
+    "account": {
+        "name": "Philbertio",
+        "budget": 211
+    }
+}

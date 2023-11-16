@@ -1,0 +1,19 @@
+{
+    "listOfIncomes": [
+        {
+            "dateInString": "01/02/2023",
+            "name": "RA salary",
+            "moneyAmount": 1900
+        },
+        {
+            "dateInString": "02/02/2023",
+            "name": "Raffle prize",
+            "moneyAmount": 100
+        }
+    ],
+    "listOfExpenses": [],
+    "account": {
+        "name": "Ethan Jiu",
+        "budget": 20000
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "listOfIncomes": [],
+    "listOfExpenses": [
+        {
+            "dateInString": "01/01/2023",
+            "name": "Tuition fee",
+            "moneyAmount": 10000
+        },
+        {
+            "dateInString": "02/01/2023",
+            "name": "Dinner",
+            "moneyAmount": 20
+        }
+    ],
+    "account": {
+        "name": "Ethan Jiu",
+        "budget": 20000
+    }
+}
